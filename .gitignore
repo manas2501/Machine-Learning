@@ -1,0 +1,13 @@
+# Python and Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Editor settings
+.vscode/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
